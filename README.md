@@ -32,7 +32,7 @@ Take a look at some of the projects I've worked on:
 
 ## Resume
 
-You can download my resume/CV [here](link-to-your-resume).
+You can download my resume/CV [here](https://github.com/chaitanya2593/chaitanya2593/blob/main/chaitanya_madduri_cv.pdf).
 
 ## Contact Me
 
