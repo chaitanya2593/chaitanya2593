@@ -1,9 +1,8 @@
 ### Hey 👋
 
 
-- 🔭 I’m currently working as Data Science Research assistant at Frankfurt School on finance topics with Data Science and NLP.
-- 🌱 Yes, I am also into LLMs , prompt engineering use cases and my main goal is to build budget NLP models for complex problems. (Don't hit pigeons(problems) with cannons (Fancy heavy solutions))
-- 👯 I am interested to collaborate on Freelancing ML Projects.
+- 🔭 I’m currently working as Data Science at Zooplus SE Data Science and NLP topics with a main focus on using Generative AI tools.
+- 🌱 My main passion is work on LLMs , prompt engineering use cases and my main goal is to build budget NLP models for complex problems. (Don't hit pigeons(problems) with cannons (Fancy heavy solutions))
 - 💬 Ask me about Data science, Python, NLP, Machine learning and Power BI.
 - 📝 [LinkedIn Profile](https://www.linkedin.com/in/v-s-chaitanya-madduri-2886447a)
 
@@ -13,7 +12,7 @@ Here are some of the skills and technologies I've acquired and mastered over the
 
 - 💻 Programming Languages: [Python, C++ , R, SQL & NOSQL ]
 - 🛠️ Technologies & Tools: [Azure, AWS, Power BI, SAP analystics Cloud, Tableau, CUDA, OpenCV]
-- 🛠️Machine Learning Concepts: [Deep Learning, NLP, Reinforcement Learning, Supervised and Unsupervised learning, Time Series Forecasting, Azure Cloud Services.]
+- 🛠️Machine Learning Concepts: [Deep Learning, NLP, Reinforcement Learning, Supervised and Unsupervised Learning, Time Series Forecasting, Azure Cloud Services.]
 - 📚 Certifications:
     -   Microsoft Azure Data Scientist Associate (DP-100)
     -   Computer Vision with OpenCv from Udemy
